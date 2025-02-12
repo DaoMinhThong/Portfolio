@@ -1,6 +1,7 @@
 <h1>E-commerce SQL project on BigQuery Studio</h1>
 <h3> 1. About Dataset</h3>
 
+-The Brazilian e-commerce dataset by Olist as an SQLite database file
 - The datasets were used from Kaggle. There are 11 datasets, but just only 10 tables were explored and analyzed in this case
 
 - Kaggle dataset: E-commerce dataset by Olist (SQLite):
